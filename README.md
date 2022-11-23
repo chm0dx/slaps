@@ -1,6 +1,8 @@
 # Simple Light Awesome Port Scanner (SLAPS)
 
-Scans TCP ports on a host and check for a valid response. Customizable threads and timeouts. There are many port scanners but this one purposefully tries to do bare minimum as simply as possible and without many (or any) requirements.
+Scans TCP ports on a host and just tells you whats open. Customizable threads and timeouts.
+
+There are many port scanners but this one purposefully tries to do the bare minimum as simply as possible and without many (or any) requirements.
 
 ## Install
 
@@ -24,3 +26,7 @@ Scans TCP ports on a host and check for a valid response. Customizable threads a
                         The number of max threads. Defaults to 100
       -w WAIT, --wait WAIT  The number of seconds to wait for a response. Defaults to 1
       -j, --json            Print full JSON output
+
+(because this thing slaps)
+
+![slaps](https://thumbs.gfycat.com/DimImprobableCommongonolek-size_restricted.gif)
