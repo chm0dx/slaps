@@ -1,4 +1,4 @@
-# Simple Light Awesome Port Scanner because this thing SLAPS
+# Simple Light Awesome Port Scanner (because this thing SLAPS)
 
 Scans TCP ports on a host and check for a valid response. Customizable threads and timeouts. There are many port scanners but this one purposefully tries to do bare minimum as simply as possible and without many (or any) requirements.
 
